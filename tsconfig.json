@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "module": "amd",
+        "target": "es5",
+        "noImplicitAny": false,
+
+        "outDir": "generated",
+        "sourceMap": true,
+        "baseUrl" : "src",
+
+        "lib": [
+          "es2015.promise",
+          "dom",
+          "es5"
+        ]
+    },
+    "exclude" : [
+      "node_modules",
+      "node_modules/**/*"
+    ],
+    "compileOnSave": true
+}

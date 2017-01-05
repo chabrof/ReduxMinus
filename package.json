@@ -1,0 +1,21 @@
+{
+  "name": "ReduxMinus",
+  "description": "A very, very minimalist Data Driven Development library based on the Redux concepts",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": {
+    "name": "François Chabrou",
+    "email": "developer@stopgapjs.org",
+    "url": "http://www.stopgapjs.org"
+  },
+  "main": "./generated/store.js",
+  "homepage": "http://www.stopgapjs.org/#reduxMinus",
+  "dependencies": {
+    "requirejs": ">=2.1.14"
+  },
+  "repository" :{
+    "type" : "git",
+    "url" : "https://github.com/chabrof/stopgapjs_focus.git"
+  },
+  "readme": "#stopgapjs"
+}
